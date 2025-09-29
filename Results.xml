@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <row>
+    <Cliente>Alfreds Futterkiste</Cliente>
+    <Producto>Escargots de Bourgogne</Producto>
+    <CantidadTotal>40</CantidadTotal>
+  </row>
+</data>
